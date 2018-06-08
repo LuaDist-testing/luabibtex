@@ -2,10 +2,10 @@
 
 
 package = "luabibtex"
-version = "0.1.0-1"
+version = "0.1.0-2"
 -- LuaDist source
 source = {
-  tag = "0.1.0-1",
+  tag = "0.1.0-2",
   url = "git://github.com/LuaDist-testing/luabibtex.git"
 }
 -- Original source
